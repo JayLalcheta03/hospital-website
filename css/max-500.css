@@ -1,0 +1,10 @@
+@media screen and (max-width: 500px) {
+  .patientCard img {
+    width: 40%;
+    height: 200px;
+    margin-inline: 8px;
+  }
+  .contact {
+    width: 60%;
+  }
+}

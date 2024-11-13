@@ -1,0 +1,8 @@
+@media screen and (max-width: 850px) {
+  .patients {
+    width: 90%;
+  }
+  .patientCard img {
+    width: 40%;
+  }
+}

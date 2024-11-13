@@ -1,0 +1,16 @@
+@media screen and (max-width: 400px) {
+  .contentDetail img {
+    width: 50%;
+    height: 200px;
+  }
+  .contentDetail {
+    display: block;
+    text-align: center;
+  }
+  .contentDetail h1 {
+    font-size: 22px;
+  }
+  .contentDetail p {
+    font-size: 15bpx;
+  }
+}

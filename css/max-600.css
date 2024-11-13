@@ -1,0 +1,14 @@
+@media screen and (max-width: 600px) {
+  .mainText h1 {
+    font-size: 33px;
+  }
+  .main img {
+    width: 90%;
+  }
+  .content {
+    width: 90%;
+  }
+  .contentDetail img {
+    width: 50%;
+  }
+}
